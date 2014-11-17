@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repository for Coursera Signature Track
+Repository for Coursera Signature Track. Additional.
